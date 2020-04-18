@@ -1,5 +1,8 @@
-# COVID19 Resources
+# Software & Resources During COVID-19 
+This site is a list of companies offering support to individuals and businesses that are affected by COVID-19. 
 * * *
+# Software 
+
 ## Remote Access
 
 ### [Splashtop](https://www.splashtop.com/work-from-home)
@@ -25,14 +28,11 @@
   - Offering free 90-day licenses for non-WebEx customers
   - Includes unlimited meeting time, max. 100 participants, and toll dial-in
 
-  ### [Mircosoft][ef2f0479]
+  ### [Mircosoft](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) 
   - Free 6 month trial of Office 365 E1 plan including Microsoft Teams
     - Allows users to record meetings and take advantage of 1TB of storage
     -   Office 365 E1 resources, training, features, system requirements
--   Crisis Communication: a [Power Platform template][930f4d03]
-
-    [ef2f0479]: https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/ "premium plan for Teams"
-    [930f4d03]: https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/ "Power Platform template"
+-   Crisis Communication: a [Power Platform template](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/)
 
 ### [RingCentral](https://www.ringcentral.com/lp/covid19-offer.html)
 
