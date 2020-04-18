@@ -19,7 +19,7 @@ This site is a list of companies offering support to individuals and businesses 
   - Until July 1, G Suite and G Suite for Education customers have access to Hangouts Meet video-conferencing capabilities
   - Customers can now host larger meetings with up to 250 participants, live stream to 100,000 viewers, and save recordings to Google Drive.
 
-###[GoToMeeting](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
+### [GoToMeeting](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
 
  - Offering 3 months of free site-wide licensing of its video conferencing solution, for eligible organizations (health care providers, educational institutions, municipalities and non-profits).
 
@@ -28,7 +28,7 @@ This site is a list of companies offering support to individuals and businesses 
   - Offering free 90-day licenses for non-WebEx customers
   - Includes unlimited meeting time, max. 100 participants, and toll dial-in
 
-  ### [Mircosoft](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) 
+### [Mircosoft](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) 
   - Free 6 month trial of Office 365 E1 plan including Microsoft Teams
     - Allows users to record meetings and take advantage of 1TB of storage
     -   Office 365 E1 resources, training, features, system requirements
