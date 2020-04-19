@@ -1,8 +1,3 @@
-# Software & Resources During COVID-19 
-This site is a list of companies offering support to individuals and businesses that are affected by COVID-19. 
-* * *
-# Software 
-
 ## Remote Access
 
 ### [Splashtop](https://www.splashtop.com/work-from-home)
@@ -11,7 +6,6 @@ This site is a list of companies offering support to individuals and businesses 
 -   Up to 50% for businesses.
 -   For businesses and civilians in Singapore, China, Hong Kong, Taiwan, and Macau, Splashtop is offering its business remote-access solutions free for 60 days.
 
-***
 ## Virtual Meetings
 
 ### [Google](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus)
@@ -28,11 +22,10 @@ This site is a list of companies offering support to individuals and businesses 
   - Offering free 90-day licenses for non-WebEx customers
   - Includes unlimited meeting time, max. 100 participants, and toll dial-in
 
-### [Mircosoft](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) 
+### [Mircosoft](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
   - Free 6 month trial of Office 365 E1 plan including Microsoft Teams
     - Allows users to record meetings and take advantage of 1TB of storage
-    -   Office 365 E1 resources, training, features, system requirements
--   Crisis Communication: a [Power Platform template](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/)
+  - Crisis Communication: a [Power Platform template](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/)
 
 ### [RingCentral](https://www.ringcentral.com/lp/covid19-offer.html)
 
@@ -45,8 +38,6 @@ This site is a list of companies offering support to individuals and businesses 
 -   Offering its Remotely product line for free to all new customers until July, 1st 2020
 -   Suite of cloud applications that helps teams collaborate and communicate.
 
-
-***
 ## Password Manager
 
 ### [Dashlane](https://blog.dashlane.com/making-the-most-of-working-remotely/)
@@ -57,7 +48,6 @@ This site is a list of companies offering support to individuals and businesses 
 -   Removing the 30-day trial limit on new 1Password Business accounts so companies can start working safely from home, with their first 6 months free.
 -   With 1Password, teams can manage their workforce from anywhere, and safely share logins and other important resources with remote workers.
 
-***
 ## Miscellaneous
 
 ### [Loom](https://www.loom.com/blog/coronavirus-response)
@@ -77,7 +67,6 @@ This site is a list of companies offering support to individuals and businesses 
 -   Unlimited seats of Cloudflare for Teams for organizations of all sizes through September 1, as well as a free 30-minute onboarding session.
 -   Cloudflare for Teams enables employees to connect to internal apps easily and safely while working remotely without the need for a VPN.
 
-
 ### [Quip](https://quip.com/work-from-home)
 
 -   Salesforce is making Quip free for any organization globally, through September 30th.
@@ -87,53 +76,3 @@ This site is a list of companies offering support to individuals and businesses 
 
 -   Box is offering 3 months free of its secure file sharing and collaboration platform.
 -   The offer is for the company's Business plan and includes unlimited storage, mobile access, and advanced user and security reporting.
-
-------
-## Internet Service Providers
-
-### [Comcast](https://corporate.comcast.com/covid-19)
--   Free access to its Xfinity WiFi hot spots for everyone, including non-subscribers, for the 60 days.
--   Unlimited data to its customers for no extra charge
--   Not disconnecting internet service or charging late fees for customers who say they can't pay their bills.
--   Providing 60 days of free basic internet service to new customers.
-
-### [AT&T](https://www.att.com/help/covid-19/)
-
--   Waiving related late fees
--   Free access to its public WiFi hot spots
--   Consumer home internet wireline customers and fixed wireless internet customers would receive unlimited data.
-
-### [Verizon](https://www.verizon.com/support/consumer/announcements/covid-19)
-
-Waiving late fees and suspending service termination for customers "negatively impacted by the global crisis."
-
-### [T-Mobile](https://www.t-mobile.com/support/account/covid-19-updates)
-
--   Temporarily waiving Late fees and Suspend and restore fees for those impacted by COVID-19
-- All customers as of March 13, 2020 who have plans with data will automatically have unlimited smartphone data through May 13 (excluding roaming). No action required.
-
-* * *
-
-## Power Companies
-
-### [National Grid](https://www.nationalgridus.com/Default?r.u=/COVID-19)
-
--   The company is suspending service disconnections and other "collections-related activities" through the end of April, after which the policy will be reevaluated.
-
-----
-## Car Companies
-
-### [Hyundai](https://www.prnewswire.com/news-releases/hyundai-relaunches-unmatched-assurance-job-loss-protection-program-301023407.html)
-
-  - Reviving its Hyundai Assurance Job Loss Protection Program to provide up to six months of car payments to new buyers if they lose their jobs involuntarily. Also provide 90 days of payment deferral on new purchases.
-
-### [Ford Motor](https://media.ford.com/content/fordmedia/fna/us/en/news/2020/03/16/ford-offers-customers-community-assistance-covid19.html)
-
-  - Offering customers "potential delay of payments to provide relief."
-  - Providing new-car buyers the chance to delay their first payment by 90 days.
-
-### [Hertz](https://www.hertz.com/rentacar/misc/index.jsp?targetPage=travel_advisory.jsp)
-- Reduced the minimum age for renting a car to 18 through May 31 and is waiving the associated "young renter fee."
-
-### [Enterprise](https://www.enterprise.com/en/car-rental/deals/young-driver.html)
-  - Reduced the minimum age for renting a car to 18 through May 31.
