@@ -1,4 +1,5 @@
-* [Home](/)
-* [Software](software.md)
-* [Work From Home](WFH.md)
-* [Utility Companies](utilities.md)
+* [Tools to Work Remotely](WFH.md "Tools to Work Remotely")
+* [Software](/README "Software")
+* [Utility Companies](Utility.md "Utility Companies")
+* [Car Companies](car.md "Car Companies")
+<!-- http://localhost:3000/#/README?id=covid19-resources -->
