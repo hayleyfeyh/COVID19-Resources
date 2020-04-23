@@ -3,12 +3,16 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>COVID19 Resources</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="description" content="Software & Tools">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
 
   <!-- Theme: Simple Dark -->
+
+
 <link rel="stylesheet" href=style.css>
 
 </head>
@@ -22,21 +26,38 @@
       repo: 'https://github.com/hayleyfeyh/COVID19-Resources',
       themeColor: "#42b983",
       homepage: '',
+      relativePath: true,
       loadSidebar: true,
       autoHeader: true,
+      maxLevel: 5,
       subMaxLevel: 2,
       auto2top: true,
-      themeable: {
-        readyTransition: true, // default
-        responsiveTables: true // default
+      externalLinkTarget: 'noopener',
 
-      }
+      themeable:
+          {
+            readyTransition: true, // default
+            responsiveTables: true // default
+
+          }
+
     }
+
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
     <!-- docsify-themeable (latest v0.x.x)  -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
 
+    <!-- footer inprogress <script src="_scripts/footer.js"></script> -->
+  <!--  footer: {
+            copy: '<span>Acme &copy; 2019</span>',
+            auth: 'by Me',
+            pre: '<hr/>',
+            style: 'text-align: right;',
+            style: 'className'
+          }
+  -->
 </body>
 
 </html>
