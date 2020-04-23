@@ -2088,7 +2088,7 @@ body .sidebar {
   --cover-background-image: radial-gradient(ellipse at center 115%, rgba(255, 255, 255, 0.9), transparent);
   --cover-blockquote-color: var(--strong-color);
   --cover-heading-color: #fff;
-  --cover-heading-font-size-max: 56;
+  --cover-heading-font-size-max: 69;
   --cover-heading-font-size-min: 34;
   --cover-heading-font-weight: 200;
   --navbar-root-color--active: var(--theme-color);

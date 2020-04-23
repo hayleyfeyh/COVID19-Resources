@@ -1,4 +1,11 @@
-# Software & Resources During COVID-19
- - Curated list of companies offiering their products or services for free or at a discount to assist indiviuals and businesses affected by the pandemic.
+# Resources During COVID-19
 
-[View](/README.md)
+  A curated list of companies offering their products or services to assist individuals and businesses who are affected by the pandemic.
+
+[Get Started](/README.md)
+
+<!--
+[Software](/README "Software Companies")
+[Utilities](utility.md "Utility Companies")
+[Cars](car.md "Car Companies")
+-->
